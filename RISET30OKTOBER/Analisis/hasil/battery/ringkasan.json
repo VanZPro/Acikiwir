@@ -1,0 +1,16 @@
+{
+  "observasi": 50000,
+  "baterai": 2600,
+  "missing_tanggal": 2216,
+  "kimia_dipulihkan": 199,
+  "median_soh": 89.25999999999999,
+  "soh_di_bawah_80": 550,
+  "kandidat": 579,
+  "kandidat_pct": 22.26923076923077,
+  "high": 480,
+  "korelasi_siklus_soh": -0.8191614170639439,
+  "n_pasangan": 2485,
+  "snapshot_mulai": "2024-09-04",
+  "snapshot_akhir": "2026-09-27",
+  "sha256": "cacdf6afcf50db86583be3754207a89acbfd60b04dfff8f69b71e29cfd78218d"
+}

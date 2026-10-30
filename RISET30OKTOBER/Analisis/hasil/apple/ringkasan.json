@@ -1,0 +1,26 @@
+{
+  "financial_facts": 25135,
+  "filings": 1002,
+  "tahun": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "fakta_terpilih": 49,
+  "calon_tahunan": 126,
+  "pendapatan_2025_miliar": 416.161,
+  "laba_2025_miliar": 112.01,
+  "pendapatan_yoy_pct": 6.425511782832749,
+  "laba_yoy_pct": 19.49517794657336,
+  "cfo_yoy_pct": -5.726656180763445,
+  "fcf_2025_miliar": 98.767,
+  "fcf_yoy_pct": -9.227347505215654,
+  "margin_operasi_2025_pct": 31.970799762591884,
+  "margin_bersih_2025_pct": 26.91506412181824,
+  "snapshot": "2026-10-19T23:10:10.189791+00:00",
+  "sha256": "f89a38b590b427aae3ab08047d8a765dda6f60bd237bb3c14e907b9ac1fa547b"
+}

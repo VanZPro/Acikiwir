@@ -1,0 +1,17 @@
+chemistry,kelompok_umur,median_soh,n
+LFP,≤1 tahun,98.475,100
+LFP,>1–2 tahun,96.32499999999999,142
+LFP,>2–3 tahun,93.94,146
+LFP,>3 tahun,89.82,343
+LMO,≤1 tahun,95.96,55
+LMO,>1–2 tahun,89.795,68
+LMO,>2–3 tahun,83.92,73
+LMO,>3 tahun,72.6,164
+NCA,≤1 tahun,96.88499999999999,72
+NCA,>1–2 tahun,92.1,91
+NCA,>2–3 tahun,86.25,89
+NCA,>3 tahun,78.1,255
+NMC,≤1 tahun,97.6,129
+NMC,>1–2 tahun,92.97,149
+NMC,>2–3 tahun,89.01,167
+NMC,>3 tahun,80.13499999999999,386

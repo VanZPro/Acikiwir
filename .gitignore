@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+node_modules/
+.build/
+.chart-data-*/
+Paket_Riset_2_dan_3.zip
+.DS_Store

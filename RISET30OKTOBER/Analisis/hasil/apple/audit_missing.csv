@@ -1,0 +1,15 @@
+,kosong,tipe
+taxonomy,0,str
+concept,0,str
+label,6,str
+description,6,str
+unit,0,str
+value,0,float64
+accn,0,str
+form,0,str
+filed,0,str
+fy,569,float64
+fp,569,str
+start,9368,str
+end,0,str
+frame,15333,str
