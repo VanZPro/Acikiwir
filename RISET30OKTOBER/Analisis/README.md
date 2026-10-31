@@ -1,5 +1,4 @@
-# Tugas visualisasi nomor 2 dan 3
-
+# Tugas visualisasi ACIKIWIRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 Hasil ada di folder `Analisis`. File dataset yang disediakan pengguna tetap dipertahankan.
 
 ## Berkas yang digunakan
@@ -38,19 +37,6 @@ Untuk Google Colab, unggah paket ke Drive, ekstrak dengan struktur yang sama, mo
 
 **Apple:** FY2025 pendapatan 416,161 miliar USD dan laba bersih 112,010 miliar USD. Laba naik 19,50% sementara kas operasi turun 5,73%. FCF sederhana, yaitu kas operasi dikurangi pembayaran aset tetap, sebesar 98,767 miliar USD dan turun 9,23%. Ini memotivasi pemeriksaan konsistensi laba dan kas dalam skenario anggaran.
 
-## Hal penting saat responsi
-
-- Dataset baterai **sepenuhnya sintetis**. Angka tidak mewakili kejadian gagal pada kendaraan nyata.
-- Snapshot baterai memakai tanggal terakhir berbeda antar-ID, bukan pengukuran serentak. Sebanyak 2.216 rekaman tanpa tanggal tidak dipakai untuk menentukan urutan; semua 2.600 ID tetap terwakili.
-- Ada 199 nilai kimia kosong pada snapshot yang dipulihkan dari ID yang sama setelah pemeriksaan konsistensi. Sensor lain tidak diimputasi.
-- Dataset Apple yang disediakan **tidak memuat harga saham**. Metadata menyebut `price_data_included: false`. Analisis disesuaikan ke laporan keuangan, bukan grafik harga atau return pasar.
-- Fokus Apple tahun fiskal penuh 2019–2025. Tahun fiskal dan tahun kalender tidak dianggap identik. FY2023 53 minggu, sedangkan FY2024 dan FY2025 52 minggu.
-- Fakta tahunan Apple memakai satu accession lengkap per periode. Data 2026 yang parsial tidak diperlakukan sebagai tahun penuh.
-- Informasi menjelaskan keadaan. Informasi strategis menghubungkan keadaan dengan tujuan dan prioritas. Rekomendasi masih memerlukan pengujian.
-
-## Pembagian presentasi untuk dua anggota
-
-Anggota pertama dapat membahas notebook baterai. Anggota kedua dapat membahas notebook Apple. Keduanya perlu memahami definisi informasi dan informasi strategis serta batas kedua dataset.
 
 ## Sumber
 
